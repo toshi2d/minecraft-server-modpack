@@ -1,0 +1,13 @@
+name = "Iron Chests"
+filename = "IronChests-2.0.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/7mHyGgvW/versions/SfuEdZgi/IronChests-2.0.2.jar"
+hash-format = "sha512"
+hash = "fa0262ea6077067278123eb942b9f5963681e2a2c390fd65be1776cf43db92542ceee2778cb1a34249f27c795740a9f634885853ce9b8cf06d136a0b2e715c8b"
+
+[update]
+[update.modrinth]
+mod-id = "7mHyGgvW"
+version = "SfuEdZgi"

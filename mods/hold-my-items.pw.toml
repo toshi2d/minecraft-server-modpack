@@ -1,0 +1,13 @@
+name = "Hold My Items"
+filename = "HMI 4.2.5H1 1.20.1 - 1.20.4.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/AP8rDDLS/versions/K652hKoN/HMI%204.2.5H1%201.20.1%20-%201.20.4.jar"
+hash-format = "sha512"
+hash = "d237a0268e9c863fbf985e410b5825ad7aeb858396293580a42fa1bc53b056cf8ad02b780c3189970fdde93176a41ad25e7dc43ac478870cac15d7d5041d4bbb"
+
+[update]
+[update.modrinth]
+mod-id = "AP8rDDLS"
+version = "K652hKoN"
