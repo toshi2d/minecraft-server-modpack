@@ -251,6 +251,11 @@ hash = "4ccbb6584b31d773a90bed3ccaf9704eeec840d3f4e33953b1b7757db6c743f8"
 metafile = true
 
 [[files]]
+file = "mods/player-animation-library.pw.toml"
+hash = "bf87b0dc35f035f6bf6d31d46df89dcce60e88bf07750ca6b7b5101020710109"
+metafile = true
+
+[[files]]
 file = "mods/playeranimator.pw.toml"
 hash = "f89967ea9150d6e5371057dc31fc8b8180c79808410ee6318088fcf78a16f58f"
 metafile = true
@@ -258,6 +263,11 @@ metafile = true
 [[files]]
 file = "mods/ranged-weapon-api.pw.toml"
 hash = "a74f260f766de498a0ce3e601b5586285e796e285b526f1a6bac86bff49ae413"
+metafile = true
+
+[[files]]
+file = "mods/reeses-sodium-options.pw.toml"
+hash = "55a727cabdd9d6e84fb0232b49d0dfa207751002e7f1f63b959baa35e2f29868"
 metafile = true
 
 [[files]]
