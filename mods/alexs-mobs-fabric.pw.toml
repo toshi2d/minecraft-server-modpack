@@ -1,0 +1,13 @@
+name = "Alex's Mobs (Fabric)"
+filename = "alexsmobs-1.21.1-1.2.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "ec8624241d0d6e3b64510c05f74e8a0eb0958070"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7953674
+project-id = 1472153

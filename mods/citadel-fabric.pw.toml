@@ -1,0 +1,13 @@
+name = "Citadel (Fabric)"
+filename = "citadel-1.21.1-1.1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "9628b0f0dbe244dbca5dab2fa648d0cb5b9c170a"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7877891
+project-id = 1472150

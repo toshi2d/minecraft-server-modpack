@@ -1,13 +1,13 @@
 name = "[Let's Do] Vinery"
-filename = "letsdo-vinery-fabric-1.4.41.jar"
+filename = "letsdo-vinery-fabric-1.5.3.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/1DWmBJVA/versions/Xv8zHKzi/letsdo-vinery-fabric-1.4.41.jar"
+url = "https://cdn.modrinth.com/data/1DWmBJVA/versions/BV45cdzS/letsdo-vinery-fabric-1.5.3.jar"
 hash-format = "sha512"
-hash = "b2af162ea4f41aefbdeed997777ac3080b43ae76b847344a4117ae69a0de579b3157ab0c3ccbdac89964d87f596aee3b79426ea2a89cad08a82a676f7fd68808"
+hash = "a03575476d004c6256a07577ed034ec0b2cfe4fb385bfc5b8d2bc0fd29f3cb3e37935dc95acbb55dfba9983e9a85c70b6ec14f489dded78feb6c6c08c7f5ed11"
 
 [update]
 [update.modrinth]
 mod-id = "1DWmBJVA"
-version = "Xv8zHKzi"
+version = "BV45cdzS"

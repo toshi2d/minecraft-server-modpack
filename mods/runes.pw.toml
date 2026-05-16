@@ -1,13 +1,13 @@
 name = "Runes"
-filename = "runes-0.9.13+1.20.1.jar"
+filename = "runes-fabric-1.2.1+1.21.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/lP9Yrr1E/versions/Z915LCkR/runes-0.9.13%2B1.20.1.jar"
+url = "https://cdn.modrinth.com/data/lP9Yrr1E/versions/j1ymRQwT/runes-fabric-1.2.1%2B1.21.1.jar"
 hash-format = "sha512"
-hash = "a4f4de8577788c52ce6264adc0d9f301040bad21c53e3c8a59b159b746bc5181a209250f6982af70830882a278914d98bc1d45f913291b8bed1946b3523aaabf"
+hash = "e09f7809280b0a07f294d732b7b4fee917b6cf1bf5df25aebc274e60b46a7ee376f203c0f0fb22717d95b5047f3619cae4ee15ed147af7b548d41743b1e28b82"
 
 [update]
 [update.modrinth]
 mod-id = "lP9Yrr1E"
-version = "Z915LCkR"
+version = "j1ymRQwT"

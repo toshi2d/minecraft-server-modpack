@@ -1,13 +1,13 @@
 name = "Toshi's Minecraft Server"
-author = "Toshi2D"
+author = "toshi2d"
 version = "1.0.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "c331774b4c3ca458e4b95b97e220a814975a1abab91d6e247e55b97ad4e8aefa"
+hash = "fe59c58f524096e964f5ff01bd5c39da4bb3dfab39f694fad90e8e2ea8b10272"
 
 [versions]
 fabric = "0.19.2"
-minecraft = "1.20.1"
+minecraft = "1.21.1"

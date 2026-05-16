@@ -1,0 +1,13 @@
+name = "Arsenal (RPG Series)"
+filename = "arsenal-fabric-1.4.2+1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/LiP9Q3KV/versions/HRXGAgxU/arsenal-fabric-1.4.2%2B1.21.1.jar"
+hash-format = "sha512"
+hash = "68ac6037ddf33ab4e01f1367905ffaf856392850d8959c78834d46c41d0321aaa9429c31106ae805c62c68d488a78b7df0cd596db9a4b365efc6839bf3dbf8b9"
+
+[update]
+[update.modrinth]
+mod-id = "LiP9Q3KV"
+version = "HRXGAgxU"
