@@ -97,7 +97,7 @@ metafile = true
 
 [[files]]
 file = "mods/creativecore.pw.toml"
-hash = "8ad27422f15037bae7385bdbc881896c5c3716286f126eab44e6d546476005db"
+hash = "9046b84834f380ee8b91b062245abdfbcb87a55742d1145cb3cdb7da992c7fe4"
 metafile = true
 
 [[files]]
@@ -121,13 +121,8 @@ hash = "d056036f71ac0fe66147f415e0142c1fd8889c065b7f1e5880ad3d46c583136f"
 metafile = true
 
 [[files]]
-file = "mods/distanthorizons.pw.toml"
-hash = "a98dd7f86518a0de7bb3451bee7c8e1d7cec1b7fe00d97504ce7afd7e715ae2d"
-metafile = true
-
-[[files]]
 file = "mods/do-a-barrel-roll.pw.toml"
-hash = "24d6c27315866a6dd672daef2f844b1b202aa173953824cb3586bed8667f3d5c"
+hash = "7de77b1a4d0908008d71340251a0efc7f26beb1014dfc71406b6f78324b8db9e"
 metafile = true
 
 [[files]]
@@ -177,7 +172,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "76a2560989102413693bbfbea83570287b3dce4f6ed40dc69aacbd3268633fe7"
+hash = "301ccf2d9e570c60a73ba9ff99a89db1b813d8d699040f95ed7a6b75df215089"
 metafile = true
 
 [[files]]
@@ -222,7 +217,7 @@ metafile = true
 
 [[files]]
 file = "mods/mouse-wheelie.pw.toml"
-hash = "f5b379a8670aa548ab59c026b3ba9976c65cd82915137b36b3d43be95900bd8a"
+hash = "7d1391f4932e458bac545ca3ca2ab602f65460462c73f30f2092fb2a0fe3b159"
 metafile = true
 
 [[files]]
@@ -312,7 +307,7 @@ metafile = true
 
 [[files]]
 file = "mods/sound-physics-remastered.pw.toml"
-hash = "4ea85fa7d750bf5a167fe9652f2ac896d12ab068dacb8b04539e316ba5b74042"
+hash = "f5d79572111f977729f99c58143e2296383cb16634f5b9805382b832e8e86300"
 metafile = true
 
 [[files]]
@@ -352,7 +347,7 @@ metafile = true
 
 [[files]]
 file = "mods/yacl.pw.toml"
-hash = "af20070dd9497817a83162c17b181a0a44f7213ea302d059a81c5aed02d0c877"
+hash = "2ab187a31adbb396080cfd4b567cf22be203255228999c36eb6060e693b9b5fd"
 metafile = true
 
 [[files]]
@@ -364,6 +359,10 @@ metafile = true
 file = "resourcepacks/attribute-icons-rpg-series.pw.toml"
 hash = "469666c31566b34351b044720e9ff920850e01f3c0350c74973fa9ff0b6a8aec"
 metafile = true
+
+[[files]]
+file = "set-sides.sh"
+hash = "e1ac5db886b0352ea97611f327caf99926bfd98da25f33d10a2b6e0c3fff708b"
 
 [[files]]
 file = "shaderpacks/solas-shader.pw.toml"
