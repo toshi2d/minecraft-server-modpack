@@ -171,11 +171,6 @@ hash = "a104f2f6044d43bbc5a5badc6f589b2f6f5a1b9c9e47e00dfbad5061aa3b51f4"
 metafile = true
 
 [[files]]
-file = "mods/hold-my-items.pw.toml"
-hash = "d82a9b3f9ba777fcfa871322fcc168745c28f9a8ea18032e4ed6f0a3d3d9c32a"
-metafile = true
-
-[[files]]
 file = "mods/iris.pw.toml"
 hash = "5284f6d141a990f4ea021c12b851e07102f5cb22743cf7b33be6ad2eb4c8d3f5"
 metafile = true
