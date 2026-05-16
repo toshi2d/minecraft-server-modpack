@@ -6,11 +6,6 @@ hash = "5285ba249b00d0d12a3cd1f64a5536e7618770dee31d3d240f9d4345ef69f888"
 metafile = true
 
 [[files]]
-file = "mods/alexs-mobs-fabric.pw.toml"
-hash = "766d72dec99e4f1582733146dfbaf08fa1bf2b45a69c4d83b5a31b42588d9b98"
-metafile = true
-
-[[files]]
 file = "mods/ambientsounds.pw.toml"
 hash = "40b05643462be7f587ef8d513445fc6382705802274626f4123f09eeda868450"
 metafile = true
@@ -53,11 +48,6 @@ metafile = true
 [[files]]
 file = "mods/better-combat.pw.toml"
 hash = "33311798d6896aeba3f00fd1ffc57874263232ae0cdc656cd5f12057911bbbce"
-metafile = true
-
-[[files]]
-file = "mods/biomes-o-plenty.pw.toml"
-hash = "ddbb4bf26d15027847e52f5b30479470299b9a8c687697309f0535d658b9944b"
 metafile = true
 
 [[files]]
