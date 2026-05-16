@@ -66,6 +66,11 @@ hash = "42410f5b6b292e10ec3a505416a5d6941fd92c299c63403f0e0e5236b62778ce"
 metafile = true
 
 [[files]]
+file = "mods/c2me-fabric.pw.toml"
+hash = "7432b65e7551434c0ebff536e75f5dfb7e0cedb342ecf231523e4d6ca4e3e417"
+metafile = true
+
+[[files]]
 file = "mods/carry-on.pw.toml"
 hash = "6a492387f6348192bcb9e2ee15f9be142100648ce60080a75f980185cb66ee13"
 metafile = true
@@ -156,6 +161,11 @@ hash = "337d97b990f76c91584b12600651ae7bd47a0824e45070b3d9330b0922149fc0"
 metafile = true
 
 [[files]]
+file = "mods/ferrite-core.pw.toml"
+hash = "1d5799cd3b6ea714602c18546b99ba894e7511835b77803304792468fb7ee187"
+metafile = true
+
+[[files]]
 file = "mods/first-person-model.pw.toml"
 hash = "5176fb99e54433b62a853438bf61ed3715c8a448108ded02063a8c444f9e8794"
 metafile = true
@@ -183,6 +193,11 @@ metafile = true
 [[files]]
 file = "mods/jewelry.pw.toml"
 hash = "75fe6a6d105502164a58d423bbfe3c4b0ad3c0975a5c1a9d8e08261046d1876e"
+metafile = true
+
+[[files]]
+file = "mods/krypton.pw.toml"
+hash = "c4e45594c8d1ab3dacc3b49142f16fb253178dd31d97cc917bf4a4d54f21e081"
 metafile = true
 
 [[files]]
