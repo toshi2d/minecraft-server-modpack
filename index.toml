@@ -211,6 +211,11 @@ hash = "7dbe736e6c0aba8639a4e501a7e78771a8d592ab8f2baa16c485fed90a57648a"
 metafile = true
 
 [[files]]
+file = "mods/trinkets.pw.toml"
+hash = "ffdb79f5bc29f990e5889f5d159a043c7046b8cd8d79f17f54b44d7ccc2b242a"
+metafile = true
+
+[[files]]
 file = "mods/txnilib.pw.toml"
 hash = "3f12e299c61128e9b68e30f814a8507437afc84e27c678fe7955ced741fc176a"
 metafile = true
